@@ -1,6 +1,6 @@
 version: '2.2'
 
 services:
-  parity:
+  sut:
     container_name: parity
     build: .
